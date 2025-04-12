@@ -1,0 +1,10 @@
+<resources>
+    <!-- List -->
+    <string name="list_title">Apps</string>
+
+    <!-- Details -->
+    <string name="details_package">Package name:</string>
+    <string name="details_version">Version:</string>
+    <string name="details_check_sum">Check sum:</string>
+    <string name="details_open_app">Open App</string>
+</resources>
